@@ -1,0 +1,14 @@
+package jan2023.assignment;
+
+public class For {
+	public static void main(String args[]) 
+    { 
+      
+        for (int x = 2; x <= 4; x++) 
+            System.out.println("Value of x:" + x); 
+    } 
+} 
+	
+
+
+

@@ -1,4 +1,4 @@
-package jan2023;
+package jan2023.assignment;
 
 public class Dog {
 	String breed;
